@@ -1,0 +1,9 @@
+C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBindingTutorial\InventoryManagerData\bin\Debug\netstandard2.0\InventoryManagerData.deps.json
+C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBindingTutorial\InventoryManagerData\bin\Debug\netstandard2.0\InventoryManagerData.dll
+C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBindingTutorial\InventoryManagerData\bin\Debug\netstandard2.0\InventoryManagerData.pdb
+C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBindingTutorial\InventoryManagerData\obj\Debug\netstandard2.0\InventoryManagerData.csprojAssemblyReference.cache
+C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBindingTutorial\InventoryManagerData\obj\Debug\netstandard2.0\InventoryManagerData.AssemblyInfoInputs.cache
+C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBindingTutorial\InventoryManagerData\obj\Debug\netstandard2.0\InventoryManagerData.AssemblyInfo.cs
+C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBindingTutorial\InventoryManagerData\obj\Debug\netstandard2.0\InventoryManagerData.csproj.CoreCompileInputs.cache
+C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBindingTutorial\InventoryManagerData\obj\Debug\netstandard2.0\InventoryManagerData.dll
+C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBindingTutorial\InventoryManagerData\obj\Debug\netstandard2.0\InventoryManagerData.pdb

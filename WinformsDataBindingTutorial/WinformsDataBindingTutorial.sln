@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformsDataBindingTutorial", "WinformsDataBindingTutorial\WinformsDataBindingTutorial.csproj", "{B71053BA-23F5-421A-8D39-BDC34CAE7286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagerData", "InventoryManagerData\InventoryManagerData.csproj", "{4CC4EC66-8127-4A15-BDD6-A62D1D066A7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B71053BA-23F5-421A-8D39-BDC34CAE7286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71053BA-23F5-421A-8D39-BDC34CAE7286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71053BA-23F5-421A-8D39-BDC34CAE7286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71053BA-23F5-421A-8D39-BDC34CAE7286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CC4EC66-8127-4A15-BDD6-A62D1D066A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC4EC66-8127-4A15-BDD6-A62D1D066A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC4EC66-8127-4A15-BDD6-A62D1D066A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC4EC66-8127-4A15-BDD6-A62D1D066A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {864F93B8-642D-4BB7-822A-FB6B0C3F031E}
+	EndGlobalSection
+EndGlobal

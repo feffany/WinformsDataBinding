@@ -50,7 +50,7 @@ namespace WinformsDataBindingTutorial.Forms
             IsWorldLoaded = false;
         }
 
-        private void AddPlayerButton_Click(object sender, EventArgs e)
+        private void AddPlayerButton_Click(object sender, System.EventArgs e)
         {
             using(AddPlayerForm addPlayerForm = new AddPlayerForm())
             {
@@ -62,12 +62,12 @@ namespace WinformsDataBindingTutorial.Forms
             }
         }
 
-        private void PlayersListBox_SelectedIndexChanged(object sender, EventArgs e)
+        private void PlayersListBox_SelectedIndexChanged(object sender, System.EventArgs e)
         {
             deletePlayerButton.Enabled = playersListBox.SelectedItem != null;
         }
 
-        private void DeletePlayerButton_Click(object sender, EventArgs e)
+        private void DeletePlayerButton_Click(object sender, System.EventArgs e)
         {
             if(MessageBox.Show("Delete this player?", AssemblyTitle, MessageBoxButtons.YesNoCancel, MessageBoxIcon.Question) == DialogResult.Yes)
             {
@@ -77,7 +77,7 @@ namespace WinformsDataBindingTutorial.Forms
         }
 
         #region Main Menu
-        private void OpenWorldToolStripMenuItem_Click(object sender, EventArgs e)
+        private void OpenWorldToolStripMenuItem_Click(object sender, System.EventArgs e)
         {
             if (openFileDialog.ShowDialog() == DialogResult.OK)
             {
@@ -86,11 +86,11 @@ namespace WinformsDataBindingTutorial.Forms
                 IsWorldLoaded = true;
             }
         }
-        private void SaveToolStripMenuItem_Click(object sender, EventArgs e)
+        private void SaveToolStripMenuItem_Click(object sender, System.EventArgs e)
         {
             ViewModel.SaveWorld();
         }
-        private void SaveAsToolStripMenuItem_Click(object sender, EventArgs e)
+        private void SaveAsToolStripMenuItem_Click(object sender, System.EventArgs e)
         {
             if(saveFileDialog.ShowDialog() == DialogResult.OK)
             {
@@ -99,7 +99,7 @@ namespace WinformsDataBindingTutorial.Forms
             }
         }
 
-        private void ExitToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ExitToolStripMenuItem_Click(object sender, System.EventArgs e)
         {
             Close();
         }

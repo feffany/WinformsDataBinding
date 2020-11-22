@@ -7,7 +7,6 @@ C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBinding
 C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBindingTutorial\WinformsDataBindingTutorial\bin\Debug\InventoryManagerData.pdb
 C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBindingTutorial\WinformsDataBindingTutorial\bin\Debug\Newtonsoft.Json.xml
 C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBindingTutorial\WinformsDataBindingTutorial\obj\Debug\WinformsDataBindingTutorial.csprojAssemblyReference.cache
-C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBindingTutorial\WinformsDataBindingTutorial\obj\Debug\WinformsDataBindingTutorial.MainForm.resources
 C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBindingTutorial\WinformsDataBindingTutorial\obj\Debug\WinformsDataBindingTutorial.Properties.Resources.resources
 C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBindingTutorial\WinformsDataBindingTutorial\obj\Debug\WinformsDataBindingTutorial.csproj.GenerateResource.cache
 C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBindingTutorial\WinformsDataBindingTutorial\obj\Debug\WinformsDataBindingTutorial.csproj.CoreCompileInputs.cache
@@ -15,3 +14,5 @@ C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBinding
 C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBindingTutorial\WinformsDataBindingTutorial\obj\Debug\WinformsDataBindingTutorial.exe
 C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBindingTutorial\WinformsDataBindingTutorial\obj\Debug\WinformsDataBindingTutorial.pdb
 C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBindingTutorial\WinformsDataBindingTutorial\obj\Debug\WinformsDataBindingTutorial.csproj.Fody.CopyLocal.cache
+C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBindingTutorial\WinformsDataBindingTutorial\obj\Debug\WinformsDataBindingTutorial.Forms.AddPlayerForm.resources
+C:\Users\batsu\OneDrive\Documents\GitHub\WinformsDataBinding\WinformsDataBindingTutorial\WinformsDataBindingTutorial\obj\Debug\WinformsDataBindingTutorial.Forms.MainForm.resources

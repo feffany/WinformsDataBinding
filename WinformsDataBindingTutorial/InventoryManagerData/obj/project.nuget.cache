@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "WZxY7nUu1ZNDBSRvTlcSmaTZ76hfTztGoEp3pzTb8f4ruAtzyP8cLvF4GrrrcjL9cvMs5UBhdx4dyM+Bvl1xLA==",
+  "dgSpecHash": "+eHOfbnMGKYi6lsADKA5w9BAwt+R22m7QwUFUcNaaMs/C6rXHo4g9IUl4od+YUup4/gFcDCIax2JyIJ2pGEjSg==",
   "success": true,
   "projectFilePath": "C:\\Users\\batsu\\OneDrive\\Documents\\GitHub\\WinformsDataBinding\\WinformsDataBindingTutorial\\InventoryManagerData\\InventoryManagerData.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\batsu\\.nuget\\packages\\fody\\6.3.0\\fody.6.3.0.nupkg.sha512",
     "C:\\Users\\batsu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\batsu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\batsu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\batsu\\.nuget\\packages\\propertychanged.fody\\3.3.1\\propertychanged.fody.3.3.1.nupkg.sha512"
   ],
   "logs": []
 }
